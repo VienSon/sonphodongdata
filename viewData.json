@@ -2,7 +2,7 @@
   "viewSanVuon": {
     "shortName": "SV",
     "fullName": "Sân Vườn",
-    "camera":"rtsp://admin:hd543211@sonq9.drayddns.com:9032/cam/realmonitor?channel=1&subtype=1",
+    "camera":"rtsp://admin:hd543211@sonq9.drayddns.com:9034/cam/realmonitor?channel=1&subtype=1",
     "deviceView": [
       {
         "id": 111,
@@ -36,14 +36,9 @@
   "viewPhongKhach": {
     "shortName": "P.Khách",
     "fullName": "Phòng Khách",
-    "camera":"",
+    "camera":"rtsp://admin:hd543211@sonq9.drayddns.com:9041/cam/realmonitor?channel=1&subtype=1",
     "deviceView": [
-      {
-        "id": 12,
-        "name": "Cam Phòng Khách",
-        "viewtype": "camera",
-        "status": 0
-      },
+
       {"id": 1, "name": "Led Tròn", "viewtype": "switch", "status": 0},
       {"id": 2, "name": "Led Dây", "viewtype": "switch", "status": 0},
       {"id": 3, "name": "Quạt", "viewtype": "switch", "status": 0},
@@ -60,7 +55,7 @@
   "viewBep": {
     "shortName": "Bếp",
     "fullName": "Bếp",
-    "camera":"",
+    "camera":"rtsp://admin:hd543211@sonq9.drayddns.com:9040/cam/realmonitor?channel=1&subtype=1",
     "deviceView": [
       {"id": 50, "name": "Ốc Đảo", "viewtype": "switch", "status": 0},
       {"id": 51, "name": "Led Bếp", "viewtype": "switch", "status": 0},
