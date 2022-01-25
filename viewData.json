@@ -6,7 +6,7 @@
     "deviceView": [
       {
         "id": 111,
-        "name": "Cổng 1",
+        "name": "Cổng 1a",
         "lockId": 112,
         "viewtype": "gate",
         "isLock": 0,
