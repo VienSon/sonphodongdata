@@ -1,0 +1,270 @@
+{
+  "mapHW": [
+    {
+      "id": 1,
+      "agt": "A3YAAAA9ACsHRzg0MTU2Mw",
+      "me": "86d0",
+      "idx": "P1",
+      "type": "switch"
+    },
+    {
+      "id": 2,
+      "agt": "A3YAAAA9ACsHRzg0MTU2Mw",
+      "me": "86d0",
+      "idx": "P2",
+      "type": "switch"
+    },
+    {
+      "id": 3,
+      "agt": "A3YAAAA9ACsHRzg0MTU2Mw",
+      "me": "86d0",
+      "idx": "P3",
+      "type": "switch"
+    },
+    {
+      "id": 4,
+      "agt": "A3YAAAA9ACsHRzg0MTU2Mw",
+      "me": "8726",
+      "idx": "L1",
+      "type": "switch"
+    },
+    {
+      "id": 5,
+      "agt": "A3YAAAA9ACsHRzg0MTU2Mw",
+      "me": "8726",
+      "idx": "L2",
+      "type": "switch"
+    },
+    {
+      "id": 6,
+      "agt": "A3YAAAA9ACsHRzg0MTU2Mw",
+      "me": "8726",
+      "idx": "L3",
+      "type": "switch"
+    },
+    {
+      "id": 7,
+      "agt": "A3YAAAA9ACsHRzg0MTU2Mw",
+      "me": "86d1",
+      "idx": "",
+      "type": "curtain"
+    },
+    {
+      "id": 8,
+      "agt": "A3YAAAA9ACsHRzg0MTU2Mw",
+      "me": "86d2",
+      "idx": "",
+      "type": "curtain"
+    },
+    {
+      "id": 9,
+      "agt": "A3YAAAA9ACsHRzg0MTU2Mw",
+      "me": "86d3",
+      "idx": "",
+      "type": "curtain"
+    },
+    {
+      "id": 10,
+      "agt": "A3YAAAA9ACsHRzg0MTU2Mw",
+      "me": "86d4",
+      "idx": "",
+      "type": "curtain"
+    },
+    {
+      "id": 50,
+      "agt": "A3YAAAA9ACsHRzg0MTU2Mw",
+      "me": "871c",
+      "idx": "P1",
+      "type": "switch"
+    },
+    {
+      "id": 51,
+      "agt": "A3YAAAA9ACsHRzg0MTU2Mw",
+      "me": "871c",
+      "idx": "P2",
+      "type": "switch"
+    },
+    {
+      "id": 52,
+      "agt": "A3YAAAA9ACsHRzg0MTU2Mw",
+      "me": "871c",
+      "idx": "P3",
+      "type": "switch"
+    },
+    {
+      "id": 53,
+      "agt": "A3YAAAA9ACsHRzg0MTU2Mw",
+      "me": "86cb",
+      "idx": "L1",
+      "type": "switch"
+    },
+    {
+      "id": 54,
+      "agt": "A3YAAAA9ACsHRzg0MTU2Mw",
+      "me": "86cb",
+      "idx": "L2",
+      "type": "switch"
+    },
+    {
+      "id": 55,
+      "agt": "A3YAAAA9ACsHRzg0MTU2Mw",
+      "me": "86cb",
+      "idx": "L3",
+      "type": "switch"
+    },
+    {
+      "id": 56,
+      "agt": "A3YAAAA9ACsHRzg0MTU2Mw",
+      "me": "86c8",
+      "idx": "L1",
+      "type": "switch"
+    },
+    {
+      "id": 57,
+      "agt": "A3YAAAA9ACsHRzg0MTU2Mw",
+      "me": "86c8",
+      "idx": "L2",
+      "type": "switch"
+    },
+    {
+      "id": 58,
+      "agt": "A3YAAAA9ACsHRzg0MTU2Mw",
+      "me": "86c8",
+      "idx": "L3",
+      "type": "switch"
+    },
+    {
+      "id": 59,
+      "agt": "A3YAAAAeACwGRzg0MTU2Mw",
+      "me": "55f2",
+      "idx": "",
+      "type": "curtain"
+    },
+    {
+      "id": 60,
+      "agt": "A3YAAAAeACwGRzg0MTU2Mw",
+      "me": "55f1",
+      "idx": "",
+      "type": "curtain"
+    },
+    {
+      "id": 61,
+      "agt": "A3YAAAA9ACsHRzg0MTU2Mw",
+      "me": "871d",
+      "idx": "P2",
+      "type": "switch"
+    },
+    {
+      "id": 62,
+      "agt": "A3YAAAA9ACsHRzg0MTU2Mw",
+      "me": "871d",
+      "idx": "P3",
+      "type": "switch"
+    },
+    {
+      "id": 100,
+      "agt": "A3YAAAA9ACsHRzg0MTU2Mw",
+      "me": "86cd",
+      "idx": "L1",
+      "type": "switch"
+    },
+    {
+      "id": 101,
+      "agt": "A3YAAAA9ACsHRzg0MTU2Mw",
+      "me": "86cd",
+      "idx": "L2",
+      "type": "switch"
+    },
+    {
+      "id": 102,
+      "agt": "A3YAAAA9ACsHRzg0MTU2Mw",
+      "me": "86cd",
+      "idx": "L3",
+      "type": "switch"
+    },
+    {
+      "id": 103,
+      "agt": "A3YAAAA9ACsHRzg0MTU2Mw",
+      "me": "86ce",
+      "idx": "P1",
+      "type": "switch"
+    },
+    {
+      "id": 104,
+      "agt": "A3YAAAA9ACsHRzg0MTU2Mw",
+      "me": "86ce",
+      "idx": "P2",
+      "type": "switch"
+    },
+    {
+      "id": 105,
+      "agt": "A3YAAAA9ACsHRzg0MTU2Mw",
+      "me": "86ce",
+      "idx": "P3",
+      "type": "switch"
+    },
+    {
+      "id": 106,
+      "agt": "A3YAAAA9ACsHRzg0MTU2Mw",
+      "me": "86cc",
+      "idx": "P1",
+      "type": "switch"
+    },
+    {
+      "id": 107,
+      "agt": "A3YAAAA9ACsHRzg0MTU2Mw",
+      "me": "86cc",
+      "idx": "P2",
+      "type": "switch"
+    },
+    {
+      "id": 108,
+      "agt": "A3YAAAA9ACsHRzg0MTU2Mw",
+      "me": "86cc",
+      "idx": "P3",
+      "type": "switch"
+    },
+    {
+      "id": 109,
+      "agt": "A3YAAAA9ACsHRzg0MTU2Mw",
+      "me": "870c",
+      "idx": "P1",
+      "type": "switch"
+    },
+    {
+      "id": 110,
+      "agt": "A3YAAAA9ACsHRzg0MTU2Mw",
+      "me": "870c",
+      "idx": "P2",
+      "type": "switch"
+    },
+    {
+      "id": 111,
+      "agt": "A3YAAAA9ACsHRzg0MTU2Mw",
+      "me": "86da",
+      "idx": "P2",
+      "type": "switch"
+    },
+    {
+      "id": 112,
+      "agt": "A3YAAAA9ACsHRzg0MTU2Mw",
+      "me": "86da",
+      "idx": "P3",
+      "type": "switch"
+    },
+    {
+      "id": 113,
+      "agt": "A3YAAAA9ACsHRzg0MTU2Mw",
+      "me": "86d9",
+      "idx": "P2",
+      "type": "switch"
+    },
+    {
+      "id": 114,
+      "agt": "A3YAAAA9ACsHRzg0MTU2Mw",
+      "me": "86d9",
+      "idx": "P3",
+      "type": "switch"
+    }
+  ]
+}
