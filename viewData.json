@@ -1,0 +1,80 @@
+{
+  "viewSanVuon": {
+    "shortName": "SV",
+    "fullName": "Sân Vườn",
+    "camera":"rtsp://admin:hd543211@sonq9.drayddns.com:9032/cam/realmonitor?channel=1&subtype=1",
+    "deviceView": [
+      {
+        "id": 111,
+        "name": "Cổng 1",
+        "lockId": 112,
+        "viewtype": "gate",
+        "isLock": 0,
+        "isOpen": 0
+      },
+      {
+        "id": 113,
+        "name": "Cổng 3",
+        "lockId": 114,
+        "viewtype": "gate",
+        "isLock": 0,
+        "isOpen": 0
+      },
+      {"id": 100, "name": "Hiên PK", "viewtype": "switch", "status": 0},
+      {"id": 101, "name": "Hàng Rào", "viewtype": "switch", "status": 0},
+      {"id": 102, "name": "Tường Gara2", "viewtype": "switch", "status": 0},
+      {"id": 103, "name": "Pha Gara1", "viewtype": "switch", "status": 0},
+      {"id": 104, "name": "Pha Trước", "viewtype": "switch", "status": 0},
+      {"id": 105, "name": "Pha Trong", "viewtype": "switch", "status": 0},
+      {"id": 106, "name": "Led Sảnh", "viewtype": "switch", "status": 0},
+      {"id": 107, "name": "Led T.M", "viewtype": "switch", "status": 0},
+      {"id": 108, "name": "Tường T.M", "viewtype": "switch", "status": 0},
+      {"id": 109, "name": "Tường Trước", "viewtype": "switch", "status": 0},
+      {"id": 110, "name": "Hiên Trước", "viewtype": "switch", "status": 0}
+    ]
+  },
+  "viewPhongKhach": {
+    "shortName": "P.Khách",
+    "fullName": "Phòng Khách",
+    "camera":"",
+    "deviceView": [
+      {
+        "id": 12,
+        "name": "Cam Phòng Khách",
+        "viewtype": "camera",
+        "status": 0
+      },
+      {"id": 1, "name": "Led Tròn", "viewtype": "switch", "status": 0},
+      {"id": 2, "name": "Led Dây", "viewtype": "switch", "status": 0},
+      {"id": 3, "name": "Quạt", "viewtype": "switch", "status": 0},
+      {"id": 4, "name": "Thác Nước", "viewtype": "switch", "status": 0},
+      {"id": 5, "name": "Tượng Phật", "viewtype": "switch", "status": 0},
+      {"id": 6, "name": "Pha Hồ Cá", "viewtype": "switch", "status": 0},
+      {"id": 7, "viewtype": "curtain", "name": "Rèm 1.1"},
+      {"id": 8, "viewtype": "curtain", "name": "Rèm 1.2"},
+      {"id": 9, "viewtype": "curtain", "name": "Rèm 2.1"},
+      {"id": 10, "viewtype": "curtain", "name": "Rèm 2.2"},
+      {"id": 11, "name": "M.L PK", "viewtype": "ac", "status": 0}
+    ]
+  },
+  "viewBep": {
+    "shortName": "Bếp",
+    "fullName": "Bếp",
+    "camera":"",
+    "deviceView": [
+      {"id": 50, "name": "Ốc Đảo", "viewtype": "switch", "status": 0},
+      {"id": 51, "name": "Led Bếp", "viewtype": "switch", "status": 0},
+      {"id": 52, "name": "Led Tủ", "viewtype": "switch", "status": 0},
+      {"id": 53, "name": "Led Từ", "viewtype": "switch", "status": 0},
+      {"id": 54, "name": "Bếp Trắng", "viewtype": "switch", "status": 0},
+      {"id": 55, "name": "Bếp Đen", "viewtype": "switch", "status": 0},
+      {"id": 56, "name": "Led Tròn", "viewtype": "switch", "status": 0},
+      {"id": 57, "name": "Quạt", "viewtype": "switch", "status": 0},
+      {"id": 58, "name": "Led Bếp", "viewtype": "switch", "status": 0},
+      {"id": 59, "viewtype": "curtain", "name": "Rèm 1.1"},
+      {"id": 60, "viewtype": "curtain", "name": "Rèm 1.2"},
+      {"id": 61, "name": "M.L Bàn Ăn", "viewtype": "ac", "status": 0},
+      {"id": 62, "name": "M.L Bếp", "viewtype": "ac", "status": 0}
+    ]
+  }
+}
